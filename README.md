@@ -10,10 +10,9 @@ Blve is a minimalist and sophisticated VS Code theme that brings together the de
 
 ## Installation
 
-1. Download or clone this repository.
-2. Open the Extensions sidebar in VS Code.
-3. Select "Install from VSIX" and choose the downloaded file.
-4. Activate the Blve theme from the theme menu.
+1. Open the Extensions sidebar in VS Code.
+2. Search for Blve Theme
+3. Install and activate the Blve theme from the theme menu.
 
 ## Screenshots
 
